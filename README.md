@@ -7,4 +7,6 @@ Anyone can vote once during the voting period
 
 Used: NextJS, TheGraph
 
+Live IPFS Website: https://voting-dapp-devival.on.fleek.co/
+
 Smart Contract address(Sepolia): https://sepolia.etherscan.io/address/0xea180f4cbcadb849fc2747cc213837c3aace59af
